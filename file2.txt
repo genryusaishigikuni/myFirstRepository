@@ -1,1 +1,2 @@
 This is file2.txt
+Another test of git, this time it's git push
